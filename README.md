@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://popcorntime.app"><img src="https://avatars2.githubusercontent.com/u/7267937?s=200" alt="Popcorn Time" width="200"></a>
+  <a href="https://popcorntime.app"><img src="https://avatars2.githubusercontent.com/u/7267937?s=200" alt="Popcorn timer MIEUX" width="200"></a>
   <br>
   Popcorn Time
   <br>
